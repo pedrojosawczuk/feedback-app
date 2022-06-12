@@ -1,5 +1,6 @@
 <p align="center">
-  <h1 align="center" style="color: #ff6a95;">Feedback UI<h3 align="center">. 👨‍💻</h3>
+  <img align="center" width="100px" height="100px" src="src/logo.png">
+  <h1 align="center">Feedback UI<h3 align="center">. 👨‍💻</h3>
 </p>
 
 ## Screenshot
